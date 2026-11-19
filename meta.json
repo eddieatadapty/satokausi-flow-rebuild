@@ -1,0 +1,68 @@
+{
+ "app": "Satokausi®-sovellus",
+ "flows": [
+  {
+   "channel": "Meta",
+   "headline": "The chanterelles are out there. Here’s where.",
+   "paywall_opens_on": "their chanterelle map",
+   "note": "their nearest likely chanterelle patch, ringed, before any price"
+  },
+  {
+   "channel": "Meta",
+   "headline": "Don’t go berry picking without this.",
+   "paywall_opens_on": "the berry year, season by season",
+   "note": "the whole blueberry map free first"
+  },
+  {
+   "channel": "Meta",
+   "headline": "Know where to look for porcini? The Satokausi® app does.",
+   "paywall_opens_on": "4,3 stars and a five-star review",
+   "note": "19,99 € shown on the first screen, as in the ad"
+  }
+ ],
+ "prices": {
+  "yearly": "19,99 €",
+  "trial": "none",
+  "source": "Finnish App Store listing; their Meta ads"
+ },
+ "today": {
+  "text": "every install opens the same map, with blueberry the one free species and every other species in the paid version at 19,99 € a year",
+  "source": "audit_frames"
+ },
+ "langs": [
+  "en",
+  "fi"
+ ],
+ "ideas": [
+  {
+   "n": 1,
+   "title": "Open on the species the ad sold",
+   "screen": "Arrive",
+   "outcome": "CR +10–20%"
+  },
+  {
+   "n": 2,
+   "title": "One real patch before the price",
+   "screen": "First win",
+   "outcome": "CR +10–20%"
+  },
+  {
+   "n": 3,
+   "title": "Name the species on the paywall",
+   "screen": "Paywall",
+   "outcome": "CR +15–20%"
+  },
+  {
+   "n": 4,
+   "title": "Show what the year buys in winter",
+   "screen": "Paywall",
+   "outcome": "CR +5–15%"
+  },
+  {
+   "n": 5,
+   "title": "Close into the season, not a second price",
+   "screen": "If they close",
+   "outcome": "CR +3–8%"
+  }
+ ]
+}
